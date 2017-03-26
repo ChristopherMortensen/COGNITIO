@@ -14,3 +14,6 @@ COGNITIO is about building a distributed system, that should hold a bulletproof 
 
 Components are the heart of an Angular 2 application, so I find the following very important. (Source angular.io)
 > Services are everywhere. Component classes should be lean. They don't fetch data from the server, validate user input, or log directly to the console. They delegate such tasks to services. A component's job is to enable the user experience and nothing more. It mediates between the view (rendered by the template) and the application logic (which often includes some notion of a model). A good component presents properties and methods for data binding. It delegates everything nontrivial to services.
+
+
+Logo: Duygu Ozkan from Noun Project
